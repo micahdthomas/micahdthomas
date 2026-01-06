@@ -1,7 +1,7 @@
 ## Hello, I'm Micah
 
 I'm a Computer Science graduate focused on IT systems, databases, and backend development.
-I enjoy building practical, real-world architectures that connects users, systems, and data.
+I enjoy building practical, real-world architectures that connect users, systems, and data.
 
 ## Skills
 - PHP, SQL, Java, Python
