@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello, I'm Micah
 
-<!--
-**micahdthomas/micahdthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science gradtuate focused on IT systems, datases, and backend development.
+I enjoy building practical, real-world architecture that connects users, systems, and data.
 
-Here are some ideas to get you started:
+## Skills
+- PHP, SQL, Java, Python
+- SQL schema design & database normalization
+- REST APIs
+- Arduino / IoT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Weather Tracker Web App (PHP/MySQL, MVC)
+- Weather Tracker Android App (Java, SQLite)
+- Arduino Pitch-to-MIDI converter
+
+## Currently I am:
+- Building my GitHub portfolio
+- Preparing for CompTIA A+ and Oracle certifications
+
+## Connect with me:
+- LinkedIn: www.linkedin.com/in/micah-thomas-71b8631a3
